@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
-Allow: /wp/
+Allow: /lp/
+Allow: /v2/
 
 Sitemap: https://www.filazeroitalia.com.br/sitemap.xml
