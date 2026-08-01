@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Allow: /lp/
 Allow: /v2/
+Allow: /termos-e-condicoes/
 
 Sitemap: https://www.filazeroitalia.com.br/sitemap.xml
